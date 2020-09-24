@@ -4,4 +4,4 @@
 echo "Todays Date: `date`"
 echo "My shell: $SHELL"
 echo "This months calender `cal` "
-echo "Todays date: `date`"
+echo "Todays Date: `date "+%d-%m-%y"`"
